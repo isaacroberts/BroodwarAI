@@ -1,0 +1,13 @@
+README
+
+
+This was my entry to the SSCAI (Student Starcraft AI) Tournament in 2012. It relies on neural networks and influence maps.
+
+
+	This was the first major project I wrote, and I wrote it in high school after two programming courses. Before starting, I didn't realize that writing a Starcraft AI is a job for a team of graduate students. (Every other entry was a team of grad students, professors, and industry professionals.) Worse, I couldn't start programming until 3-4 months before the deadline. So, this code is poorly written, poorly tested, and involves a lot of hacks. But in the end, it played, and it almost beat a few bots.
+
+This was my high school senior thesis and includes the accompanying research paper I wrote. 
+
+
+Here is a link to the SSCAI 2012 replays, including mine. 
+https://drive.google.com/file/d/0B1ey8acQbA5zNUljZnoxMU1pUkk/view
